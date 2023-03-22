@@ -413,7 +413,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Scale in diminui instâncias EC2 quando a demanda deixa de ocorrer.",
+    {
+        "pergunta": "Scale in diminui instâncias EC2 quando a demanda deixa de ocorrer.",
         "opcoes": {
             "a": "Verdadeiro",
             "b": "Falso",
@@ -421,7 +422,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Scale out aumenta instâncias EC2 conforme demanda.",
+    {
+        "pergunta": "Scale out aumenta instâncias EC2 conforme demanda.",
         "opcoes": {
             "a": "Verdadeiro",
             "b": "Falso",
@@ -429,7 +431,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Auto Scaling Group é gratuito, você paga somente pelas intâncias que estão executadas",
+    {
+        "pergunta": "Auto Scaling Group é gratuito, você paga somente pelas intâncias que estão executadas",
         "opcoes": {
             "a": "Verdadeiro",
             "b": "Falso",
@@ -437,7 +440,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Quais são os cinco planos de suporte ofertados pela AWS?",
+    {
+        "pergunta": "Quais são os cinco planos de suporte ofertados pela AWS?",
         "opcoes": {
             "a": "Basic, Developer, Business, Advanced, Enterprise On-Ramp",
             "b": "Bronze Silver, Gold, Diamond, Ruby",
@@ -445,7 +449,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Qual é o serviço serverless (sem servidor) que permite a execução de consultas utilizando padrão SQL para analisar dados no Amazon S3?",
+    {
+        "pergunta": "Qual é o serviço serverless (sem servidor) que permite a execução de consultas utilizando padrão SQL para analisar dados no Amazon S3?",
         "opcoes": {
             "a": "EMR",
             "b": "Athena",
@@ -453,7 +458,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Numa migração de sistemas, você percebeu que existem dados na sua aplicação que raramente são usados e que poderiam ser mantidos em arquivos somente para fins de auditoria. Qual é o serviço da AWS que pode ser utilizado para esse objetivo com o menor custo possível?",
+    {
+        "pergunta": "Numa migração de sistemas, você percebeu que existem dados na sua aplicação que raramente são usados e que poderiam ser mantidos em arquivos somente para fins de auditoria. Qual é o serviço da AWS que pode ser utilizado para esse objetivo com o menor custo possível?",
         "opcoes": {
             "a": "S3 Standard",
             "b": "S3 Infrequent Access",
@@ -461,7 +467,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Utilizando os serviços da AWS, qual é a sequência esperada numa pipeline de CI/CD?",
+    {
+        "pergunta": "Utilizando os serviços da AWS, qual é a sequência esperada numa pipeline de CI/CD?",
         "opcoes": {
             "a": "CodeDeploy, CodeCommit, CodeBuild",
             "b": "CodeCommit, CodeBuild, CodeDeploy",
@@ -469,7 +476,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Qual é o serviço utilizado para provisionar Desktops utilizando Windows ou Linux?",
+    {
+        "pergunta": "Qual é o serviço utilizado para provisionar Desktops utilizando Windows ou Linux?",
         "opcoes": {
             "a": "Amazon WorkSpaces",
             "b": "Amazon Desktop",
@@ -477,7 +485,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Qual é a forma de permitir que seus serviços sejam expostos sempre no mesmo endereço IP e de possibilitar que os hosts associados a ele sejam substituídos de forma simples na sua infraestrutura?",
+    {
+        "pergunta": "Qual é a forma de permitir que seus serviços sejam expostos sempre no mesmo endereço IP e de possibilitar que os hosts associados a ele sejam substituídos de forma simples na sua infraestrutura?",
         "opcoes": {
             "a": "Utilizando um IPV4",
             "b": "Utilizando um IP Elástico",
@@ -485,7 +494,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Qual é o serviço que permite estabelecer uma conexão dedicada entre a sua infraestrutura on-premise e a AWS melhorando as conexões e aumentando a taxa de transferência?",
+    {
+        "pergunta": "Qual é o serviço que permite estabelecer uma conexão dedicada entre a sua infraestrutura on-premise e a AWS melhorando as conexões e aumentando a taxa de transferência?",
         "opcoes": {
             "a": "AWS DataSync",
             "b": "Amazon DMS",
@@ -493,7 +503,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Qual é o usuário utilizado para acessar o AWS Console pela primeira vez e que possui acesso a todos os recursos da conta? (Não sendo recomendado para uso no dia a dia.)",
+    {
+        "pergunta": "Qual é o usuário utilizado para acessar o AWS Console pela primeira vez e que possui acesso a todos os recursos da conta? (Não sendo recomendado para uso no dia a dia.)",
         "opcoes": {
             "a": "AWS Account Root User",
             "b": "AWS IAM",
@@ -501,15 +512,17 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Qual é o banco de dados relacional totalmente gerenciado pela AWS e que pode ser 5 x mais rápido que o MySQL?",
+    {
+        "pergunta": "Qual é o banco de dados relacional totalmente gerenciado pela AWS e que pode ser 5 x mais rápido que o MySQL?",
         "opcoes": {
             "a": "MariaDB",
             "b": "Aurora",
             "c": "RedShit"
         },
         "resposta": "b"
-    },    
-    {"pergunta": "Você está migrando parte de uma aplicação que trabalha com sistema de arquivos para armazenar e manipular alguns dados. Qual das opções abaixo indica o serviço que pode ser utilizado para atender essa parte da aplicação na AWS?",
+    },
+    {
+        "pergunta": "Você está migrando parte de uma aplicação que trabalha com sistema de arquivos para armazenar e manipular alguns dados. Qual das opções abaixo indica o serviço que pode ser utilizado para atender essa parte da aplicação na AWS?",
         "opcoes": {
             "a": "EFS",
             "b": "KMS",
@@ -517,7 +530,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Qual serviço da AWS possui um catálogo onde os clientes podem encontrar aplicações desenvolvidas por terceiros, prontas para serem instaladas e executadas para atender as mais diversas necessidades de negócio?",
+    {
+        "pergunta": "Qual serviço da AWS possui um catálogo onde os clientes podem encontrar aplicações desenvolvidas por terceiros, prontas para serem instaladas e executadas para atender as mais diversas necessidades de negócio?",
         "opcoes": {
             "a": "AWS Config",
             "b": "AWS AMI",
@@ -525,7 +539,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Qual serviço da AWS permite você executar códigos sem provisionar ou gerenciar servidores?",
+    {
+        "pergunta": "Qual serviço da AWS permite você executar códigos sem provisionar ou gerenciar servidores?",
         "opcoes": {
             "a": "AWS Lightsail",
             "b": "AWS Lambda",
@@ -533,7 +548,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Sua empresa vem utilizando a Nuvem AWS por algum tempo, e na última reunião foi decidido criar um blog empresarial do tipo WordPress. Qual destes serviços AWS atende a solicitação o mais rápido possível, com o mínimo de configuração e com baixo custo?",
+    {
+        "pergunta": "Sua empresa vem utilizando a Nuvem AWS por algum tempo, e na última reunião foi decidido criar um blog empresarial do tipo WordPress. Qual destes serviços AWS atende a solicitação o mais rápido possível, com o mínimo de configuração e com baixo custo?",
         "opcoes": {
             "a": "AWS Lightsail",
             "b": "AWS Elastic Beanstalk",
@@ -541,7 +557,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Você é um desenvolvedor de aplicação, que precisa subir uma aplicação na WEB que possua balanceamento de carga, alta disponibilidade (multi az), auto scaling group e seja seguro. Qual plataforma como serviço (PaaS) você deve utilizar?",
+    {
+        "pergunta": "Você é um desenvolvedor de aplicação, que precisa subir uma aplicação na WEB que possua balanceamento de carga, alta disponibilidade (multi az), auto scaling group e seja seguro. Qual plataforma como serviço (PaaS) você deve utilizar?",
         "opcoes": {
             "a": "AWS Elastic Beanstalk",
             "b": "AWS Lambda",
@@ -549,7 +566,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Qual o modelo de instância, que é mais barato?",
+    {
+        "pergunta": "Qual o modelo de instância, que é mais barato?",
         "opcoes": {
             "a": "Sob demanda",
             "b": "Inatâncias Spot",
@@ -557,7 +575,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Qual o modelo de instância sob demanda é o mais barato",
+    {
+        "pergunta": "Qual o modelo de instância sob demanda é o mais barato",
         "opcoes": {
             "a": "Verdadeiro",
             "b": "Falso",
@@ -565,7 +584,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Qual opção descreve a função do serviço Elastic Load Balancer?",
+    {
+        "pergunta": "Qual opção descreve a função do serviço Elastic Load Balancer?",
         "opcoes": {
             "a": "Instânciar uma nova máquina quando uma das máquinas falha",
             "b": "Distribuir o tráfego de entrada entre instâncias em diferentes regiões",
@@ -573,7 +593,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Você precisa implementar uma estratégia de DR (Recuperação de Desastre) na sua empresa, qual é a recomendação de melhor uso do AWS RDS?",
+    {
+        "pergunta": "Você precisa implementar uma estratégia de DR (Recuperação de Desastre) na sua empresa, qual é a recomendação de melhor uso do AWS RDS?",
         "opcoes": {
             "a": "Read Replicas (fazer cópias de leitura)",
             "b": "Multi AZ (distribuir em zonas de disponibilidade diferenetes)",
@@ -581,7 +602,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Os benefícios do S3 são: armazenamento virtualmente limitado, compartilhar arquivos ou criar website estático, armazenar snapshops, backups, gerar armazenamento híbrido do seu ambiente on-premises, repositório de data lakes e análise de big data, baixa latência e alta velocidade, durabilidade 99,999999999 (onze noves)",
+    {
+        "pergunta": "Os benefícios do S3 são: armazenamento virtualmente limitado, compartilhar arquivos ou criar website estático, armazenar snapshops, backups, gerar armazenamento híbrido do seu ambiente on-premises, repositório de data lakes e análise de big data, baixa latência e alta velocidade, durabilidade 99,999999999 (onze noves)",
         "opcoes": {
             "a": "Verdadeiro",
             "b": "Falso",
@@ -589,7 +611,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Você trabalha numa agência de viagens online e precisa armazenar, analisar e correlacionar dados de logs de seus aplicativos para identificar e resolver gargalos de desempenho e problemas de disponibilidade para garantir uma experiência de reserva otimizada para os seus clientes. Qual serviço da AWS abaixo é o mais indicado?",
+    {
+        "pergunta": "Você trabalha numa agência de viagens online e precisa armazenar, analisar e correlacionar dados de logs de seus aplicativos para identificar e resolver gargalos de desempenho e problemas de disponibilidade para garantir uma experiência de reserva otimizada para os seus clientes. Qual serviço da AWS abaixo é o mais indicado?",
         "opcoes": {
             "a": "Amazon CloudFront",
             "b": "Amazon OpenSearch",
@@ -597,7 +620,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Você está auditando a infraestrutura da sua empresa na AWS para tentar identificar ações não programadas de desligamentos de recursos. Qual serviço pode te auxiliar nesta atividade?",
+    {
+        "pergunta": "Você está auditando a infraestrutura da sua empresa na AWS para tentar identificar ações não programadas de desligamentos de recursos. Qual serviço pode te auxiliar nesta atividade?",
         "opcoes": {
             "a": "AWS CloudSearch",
             "b": "AWS Audit",
@@ -605,7 +629,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Utilização de recursos de rede, computadores virtuais e armazenamento de dados com alto nível de flexibilidade, gerenciamento e controle sobre os recurso de TI são características de qual tipo de uso de cloud?",
+    {
+        "pergunta": "Utilização de recursos de rede, computadores virtuais e armazenamento de dados com alto nível de flexibilidade, gerenciamento e controle sobre os recurso de TI são características de qual tipo de uso de cloud?",
         "opcoes": {
             "a": "IaaS",
             "b": "PaaS",
@@ -613,7 +638,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Qual é a quantidade de dados que pode-se armazenar no S3?",
+    {
+        "pergunta": "Qual é a quantidade de dados que pode-se armazenar no S3?",
         "opcoes": {
             "a": "1 Terabytes",
             "b": "A capacidade é virtualmnete ilimitada",
@@ -621,7 +647,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Qual das opções abaixo é a classe que pode deixar o uso do S3 mais caro?",
+    {
+        "pergunta": "Qual das opções abaixo é a classe que pode deixar o uso do S3 mais caro?",
         "opcoes": {
             "a": "Standard",
             "b": "Glacier",
@@ -629,7 +656,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Qual é o serviço de alta performance desenvolvido para fornecer block-storage para instâncias EC2?",
+    {
+        "pergunta": "Qual é o serviço de alta performance desenvolvido para fornecer block-storage para instâncias EC2?",
         "opcoes": {
             "a": "S3",
             "b": "EBS",
@@ -637,7 +665,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Sua empresa deseja padronizar e versionar as configurações para a criação de todos os bancos de dados, além disso, deseja que esses serviços sejam implementados e atualizados em toda os servidores de forma automatizada, utilizando pipelines de CI/CD. Qual é o serviço recomendado para esse requisito?",
+    {
+        "pergunta": "Sua empresa deseja padronizar e versionar as configurações para a criação de todos os bancos de dados, além disso, deseja que esses serviços sejam implementados e atualizados em toda os servidores de forma automatizada, utilizando pipelines de CI/CD. Qual é o serviço recomendado para esse requisito?",
         "opcoes": {
             "a": "AWS RDS",
             "b": "AWS CodePipeline",
@@ -645,7 +674,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Você precisa automatizar um processo que executa diversas tarefas de forma sequencial em seu sistema. Qual é o serviço mais indicado para essa necessidade?",
+    {
+        "pergunta": "Você precisa automatizar um processo que executa diversas tarefas de forma sequencial em seu sistema. Qual é o serviço mais indicado para essa necessidade?",
         "opcoes": {
             "a": "AWS Kinesis",
             "b": "AWS Batch",
@@ -653,7 +683,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Você implantou uma aplicação em produção que não está funcionando e na log existe uma mensagem de acesso negado ao DynamoDB. Qual serviço você precisa checar e configurar corretamente para validar esse acesso?",
+    {
+        "pergunta": "Você implantou uma aplicação em produção que não está funcionando e na log existe uma mensagem de acesso negado ao DynamoDB. Qual serviço você precisa checar e configurar corretamente para validar esse acesso?",
         "opcoes": {
             "a": "AWS IAM Roles",
             "b": "AWS Config",
@@ -661,7 +692,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Você deseja monitorar o percentual de memória que os seus servidores estão utilizando em determinando período do dia. Qual serviço da AWS pode ser utilizado para essa finalidade?",
+    {
+        "pergunta": "Você deseja monitorar o percentual de memória que os seus servidores estão utilizando em determinando período do dia. Qual serviço da AWS pode ser utilizado para essa finalidade?",
         "opcoes": {
             "a": "AWS CloudTrail",
             "b": "AWS Cost Explorer",
@@ -669,7 +701,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "O time de segurança da informação da sua empresa classificou seu site com alto risco de exposição de dados sensíveis, as mensagens trocadas entre os usuários e os servidores não estão sendo criptografados. Qual serviço pode auxiliar no reparo deste problema?",
+    {
+        "pergunta": "O time de segurança da informação da sua empresa classificou seu site com alto risco de exposição de dados sensíveis, as mensagens trocadas entre os usuários e os servidores não estão sendo criptografados. Qual serviço pode auxiliar no reparo deste problema?",
         "opcoes": {
             "a": "AWS Certificate Manager",
             "b": "AWS IAM",
@@ -677,7 +710,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Sua empresa iniciou um processo de transformação digital de todas as suas plataformas e decidiu utilizar uma arquitetura de sistemas orientada a eventos. Qual dos serviços abaixo pode ser utilizado como um barramento escalável de eventos para facilitar a criação dessa arquitetura?",
+    {
+        "pergunta": "Sua empresa iniciou um processo de transformação digital de todas as suas plataformas e decidiu utilizar uma arquitetura de sistemas orientada a eventos. Qual dos serviços abaixo pode ser utilizado como um barramento escalável de eventos para facilitar a criação dessa arquitetura?",
         "opcoes": {
             "a": "Amazon Lambda",
             "b": "Amazon EventBridge",
@@ -685,7 +719,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Você irá disponibilizar uma aplicação crítica e com dados sensíveis na Internet. Qual é o serviço que te ajuda a identificar vulnerabilidades de segurança e riscos de exposição de acordo com as melhores práticas e compliance?",
+    {
+        "pergunta": "Você irá disponibilizar uma aplicação crítica e com dados sensíveis na Internet. Qual é o serviço que te ajuda a identificar vulnerabilidades de segurança e riscos de exposição de acordo com as melhores práticas e compliance?",
         "opcoes": {
             "a": "AWS Inspector",
             "b": "AWS GuardDuty",
@@ -693,7 +728,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Numa estratégia de utilização de nuvem híbrida, onde você deseja manter seu workload on- premises e parte dos arquivos na AWS. Qual opção abaixo oferece uma gama de serviços para realizar essa finalidade de integração e armazenamento para sua arquitetura?",
+    {
+        "pergunta": "Numa estratégia de utilização de nuvem híbrida, onde você deseja manter seu workload on- premises e parte dos arquivos na AWS. Qual opção abaixo oferece uma gama de serviços para realizar essa finalidade de integração e armazenamento para sua arquitetura?",
         "opcoes": {
             "a": "AWS Organizations",
             "b": "AWS Storage Gateway",
@@ -701,7 +737,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "O framework do Well-Architected possui 5 pilares: Excelência Operacional, Segurança, Confiabilidade, Performance Eficiente e Custo Otimizado.",
+    {
+        "pergunta": "O framework do Well-Architected possui 5 pilares: Excelência Operacional, Segurança, Confiabilidade, Performance Eficiente e Custo Otimizado.",
         "opcoes": {
             "a": "Verdadeiro",
             "b": "Falso",
@@ -709,7 +746,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Uma das formas de garantir a elasticidade e economia no uso do EC2 é mantendo os arquivos de programas e de sistemas em recursos computacionais distintos. Qual serviço pode ser utilizado para isso?",
+    {
+        "pergunta": "Uma das formas de garantir a elasticidade e economia no uso do EC2 é mantendo os arquivos de programas e de sistemas em recursos computacionais distintos. Qual serviço pode ser utilizado para isso?",
         "opcoes": {
             "a": "S3",
             "b": "EBS",
@@ -717,7 +755,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Você implementou um sistema com arquitetura de microsserviços e precisa depurar cada um deles, partir desde a requisição do usuário para entender a performance e identificar oportunidades de melhorias. Qual serviço da AWS é o mais indicado para essa finalidade (tanto em ambiente de desenvolvimento quanto em ambiente de produção)?",
+    {
+        "pergunta": "Você implementou um sistema com arquitetura de microsserviços e precisa depurar cada um deles, partir desde a requisição do usuário para entender a performance e identificar oportunidades de melhorias. Qual serviço da AWS é o mais indicado para essa finalidade (tanto em ambiente de desenvolvimento quanto em ambiente de produção)?",
         "opcoes": {
             "a": "AWS X-Ray",
             "b": "AWS Lexa",
@@ -725,7 +764,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "O que é Free Tier (Nível Gratuito)?",
+    {
+        "pergunta": "O que é Free Tier (Nível Gratuito)?",
         "opcoes": {
             "a": "Camada de Banco de Dados NoSQL",
             "b": "Serviço de firewall que protege suas aplicações",
@@ -733,7 +773,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": " serviço que permite que aplicativos enviem mensagens críticas, em termos de tempo, para vários assinantes através de um mecanismo de “push”, eliminando a necessidade de verificar periodicamente ou “pesquisar” por atualizações.",
+    {
+        "pergunta": " serviço que permite que aplicativos enviem mensagens críticas, em termos de tempo, para vários assinantes através de um mecanismo de “push”, eliminando a necessidade de verificar periodicamente ou “pesquisar” por atualizações.",
         "opcoes": {
             "a": "SQS",
             "b": "SNS",
@@ -741,7 +782,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": " serviço de fila de mensagens, usado por aplicativos distribuídos para trocar mensagens através de um modelo de sondagem e pode ser usado para desacoplar componentes de envio e recebimento.",
+    {
+        "pergunta": " serviço de fila de mensagens, usado por aplicativos distribuídos para trocar mensagens através de um modelo de sondagem e pode ser usado para desacoplar componentes de envio e recebimento.",
         "opcoes": {
             "a": "SQS",
             "b": "SNS",
@@ -749,7 +791,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": " Uma aplicação de terceiros irá gerar um arquivo num layout diferente do que o seu sistema espera. Qual é serviço da AWS que pode ser utilizado para transformar o arquivo e carregá-lo no seu sistema?",
+    {
+        "pergunta": " Uma aplicação de terceiros irá gerar um arquivo num layout diferente do que o seu sistema espera. Qual é serviço da AWS que pode ser utilizado para transformar o arquivo e carregá-lo no seu sistema?",
         "opcoes": {
             "a": "AWS DataSync",
             "b": "AWS AWS DTS",
@@ -757,7 +800,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": " Recentemente você implementou uma aplicação piloto na sua empresa. Para realizar o rollout do projeto, sua CTO pediu para você apresentar os gastos com infraestrutura AWS durante o período para avaliação e aprovação da expansão. Qual é o serviço que fornece essas informações?",
+    {
+        "pergunta": " Recentemente você implementou uma aplicação piloto na sua empresa. Para realizar o rollout do projeto, sua CTO pediu para você apresentar os gastos com infraestrutura AWS durante o período para avaliação e aprovação da expansão. Qual é o serviço que fornece essas informações?",
         "opcoes": {
             "a": "AWS CostExplorer",
             "b": "AWS Budgets",
@@ -765,7 +809,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": " Seu time de desenvolvimento identificou que um banco de dados relacional está com baixa performance, a concorrência entre um grande volume de consultas e outras ações na base de dados têm aumentando a latência no tráfego dos dados. Qual é a maneira mais ágil e econômica de resolver este problema?",
+    {
+        "pergunta": " Seu time de desenvolvimento identificou que um banco de dados relacional está com baixa performance, a concorrência entre um grande volume de consultas e outras ações na base de dados têm aumentando a latência no tráfego dos dados. Qual é a maneira mais ágil e econômica de resolver este problema?",
         "opcoes": {
             "a": "Atualizar o role de acesso ao banco",
             "b": "Fazer o uso de Read Replicas",
@@ -773,7 +818,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": " Qual afirmação abaixo NÃO se refere ao AWS Lambda?",
+    {
+        "pergunta": " Qual afirmação abaixo NÃO se refere ao AWS Lambda?",
         "opcoes": {
             "a": "Pode ser acionado diretamente pelo AWS SNS",
             "b": "Pode ser acionado diretamente pelo AWS S3",
@@ -781,7 +827,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": " O Amazon QuickSight cira DashBoards de BI com uso de Aprendizagem de Máquina (ML)",
+    {
+        "pergunta": " O Amazon QuickSight cira DashBoards de BI com uso de Aprendizagem de Máquina (ML)",
         "opcoes": {
             "a": "Verdadeiro",
             "b": "Falso",
@@ -789,7 +836,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": " O Amazon DynamoDB é um banco de dados relacional",
+    {
+        "pergunta": " O Amazon DynamoDB é um banco de dados relacional",
         "opcoes": {
             "a": "Verdadeiro",
             "b": "Falso",
@@ -797,7 +845,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": " Qual é o serviço que você precisa configurar para controlar o tráfego de dados de entrada e saída em um parque de servidores de bancos de dados, dentro da sua rede privada na AWS?",
+    {
+        "pergunta": " Qual é o serviço que você precisa configurar para controlar o tráfego de dados de entrada e saída em um parque de servidores de bancos de dados, dentro da sua rede privada na AWS?",
         "opcoes": {
             "a": "AWS WAF",
             "b": "AWS GuardDuty",
@@ -805,7 +854,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": " Qual serviço permite a criação de uma rede virtual totalmente isolada para alocar diversos recursos computacionais na AWS?",
+    {
+        "pergunta": " Qual serviço permite a criação de uma rede virtual totalmente isolada para alocar diversos recursos computacionais na AWS?",
         "opcoes": {
             "a": "AWS VPC",
             "b": "AWS Gateway",
@@ -813,7 +863,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": " Qual serviço da AWS é recomendado para estimar o custo de implementação dos serviços de Cloud para o seu negócio?",
+    {
+        "pergunta": " Qual serviço da AWS é recomendado para estimar o custo de implementação dos serviços de Cloud para o seu negócio?",
         "opcoes": {
             "a": "AWS Billing",
             "b": "AWS Cost Explorer",
@@ -821,7 +872,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": " Você está desenvolvendo uma aplicação mobile e precisa implementar o armazenamento e sincronismo de dados para vários dispositivos. Qual é o serviço AWS que pode ser utilizado para esse fim?",
+    {
+        "pergunta": " Você está desenvolvendo uma aplicação mobile e precisa implementar o armazenamento e sincronismo de dados para vários dispositivos. Qual é o serviço AWS que pode ser utilizado para esse fim?",
         "opcoes": {
             "a": "AWS Cognito",
             "b": "AWS Redis",
@@ -829,7 +881,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": " Você lidera um pequeno time desenvolvimento e deseja utilizar uma arquitetura de microsserviços com conteiners. Qual serviço pode auxiliá-lo numa abordagem sem servidor e que traz velocidade nas entregas, uma vez que você não precisa se preocupar com questões de infraestrutura?",
+    {
+        "pergunta": " Você lidera um pequeno time desenvolvimento e deseja utilizar uma arquitetura de microsserviços com conteiners. Qual serviço pode auxiliá-lo numa abordagem sem servidor e que traz velocidade nas entregas, uma vez que você não precisa se preocupar com questões de infraestrutura?",
         "opcoes": {
             "a": "ECS",
             "b": "Fargate",
@@ -837,7 +890,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": " Você precisa implementar no seu site uma funcionalidade para realizar pesquisas em todas as páginas e arquivos para facilitar a navegação e experiência do seus usuário. Qual SAAS disponível na AWS fornece ferramentas robustas para cumprir essa finalidade e que pode ser facilmente utilizada na sua aplicação?",
+    {
+        "pergunta": " Você precisa implementar no seu site uma funcionalidade para realizar pesquisas em todas as páginas e arquivos para facilitar a navegação e experiência do seus usuário. Qual SAAS disponível na AWS fornece ferramentas robustas para cumprir essa finalidade e que pode ser facilmente utilizada na sua aplicação?",
         "opcoes": {
             "a": "Amazon Athena",
             "b": "Amazon OpenSearch",
@@ -845,7 +899,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": " Qual é o serviço utilizado para permitir que aplicações acessem recursos restritos de serviços dentro da AWS?",
+    {
+        "pergunta": " Qual é o serviço utilizado para permitir que aplicações acessem recursos restritos de serviços dentro da AWS?",
         "opcoes": {
             "a": "IAM Roles",
             "b": "IAM Policies",
@@ -853,7 +908,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Qual é a maior diferença entre os serviços AWS RDS e DynamoDB?",
+    {
+        "pergunta": "Qual é a maior diferença entre os serviços AWS RDS e DynamoDB?",
         "opcoes": {
             "a": "RDS é NoSQL, DynamoDB é SQL",
             "b": "N/D",
@@ -861,7 +917,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Qual é o serviço capaz de coletar e processar, em tempo real, um grande volume de streams de dados oriundos de diversos dispositivos, gerando novas informações para rápidas reações e direções?",
+    {
+        "pergunta": "Qual é o serviço capaz de coletar e processar, em tempo real, um grande volume de streams de dados oriundos de diversos dispositivos, gerando novas informações para rápidas reações e direções?",
         "opcoes": {
             "a": "Kinesis",
             "b": "EventBridge",
@@ -869,7 +926,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Sua empresa possui diversas áreas que devem construir suas aplicações dentro da AWS usando templates de infraestrutura pré-definidos pelo time de arquitetos. As soluções deverão ser implementadas como código IAC (Infra as Code). Qual serviço pode ser utilizado para essa finalidade?",
+    {
+        "pergunta": "Sua empresa possui diversas áreas que devem construir suas aplicações dentro da AWS usando templates de infraestrutura pré-definidos pelo time de arquitetos. As soluções deverão ser implementadas como código IAC (Infra as Code). Qual serviço pode ser utilizado para essa finalidade?",
         "opcoes": {
             "a": "AWS Config",
             "b": "AWS CloudFormation",
@@ -877,7 +935,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Sua equipe de desenvolvimento está montando uma pipeline de CI/CD para uma nova aplicação na AWS, qual serviço eles precisam incluir no final da esteira para implantar a aplicação nos servidores de forma automatizada?",
+    {
+        "pergunta": "Sua equipe de desenvolvimento está montando uma pipeline de CI/CD para uma nova aplicação na AWS, qual serviço eles precisam incluir no final da esteira para implantar a aplicação nos servidores de forma automatizada?",
         "opcoes": {
             "a": "AWS Git",
             "b": "AWS CodeCommit",
@@ -885,7 +944,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Seus clientes da Europa e da Austrália estão reclamando que o seu site está demorando muito para carregar as imagens, proporcionando a eles uma experiência muito ruim. Uma vez que você utiliza a sua infraestrutura na Região de São Paulo, o que você poderia fazer, imediatamente, para melhorar esse cenário?",
+    {
+        "pergunta": "Seus clientes da Europa e da Austrália estão reclamando que o seu site está demorando muito para carregar as imagens, proporcionando a eles uma experiência muito ruim. Uma vez que você utiliza a sua infraestrutura na Região de São Paulo, o que você poderia fazer, imediatamente, para melhorar esse cenário?",
         "opcoes": {
             "a": "Habilitar o CloudFront",
             "b": "Hbilitar o CloudFormation",
@@ -893,7 +953,8 @@
         },
         "resposta": "a"
     },
-     {"pergunta": "Uma das grandes vantagens no uso da AWS está nas formas de pagamentos dos seus serviços. Qual é forma de pagamentos padrão utilizada na maior parte dos seus serviços?",
+    {
+        "pergunta": "Uma das grandes vantagens no uso da AWS está nas formas de pagamentos dos seus serviços. Qual é forma de pagamentos padrão utilizada na maior parte dos seus serviços?",
         "opcoes": {
             "a": "Pagamento conforme a compra",
             "b": "Pagamento conforme o uso",
@@ -901,7 +962,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Qual é o modelo de utilização de cloud onde não é necessário se preocupar com o gerenciamento dos recursos de infraestrutura de tecnologia, permitindo que o foco do cliente seja, principalmente, no desenvolvimento das aplicações que vão ser executados sobre os recursos?",
+    {
+        "pergunta": "Qual é o modelo de utilização de cloud onde não é necessário se preocupar com o gerenciamento dos recursos de infraestrutura de tecnologia, permitindo que o foco do cliente seja, principalmente, no desenvolvimento das aplicações que vão ser executados sobre os recursos?",
         "opcoes": {
             "a": "IaaS",
             "b": "PaaS",
@@ -909,7 +971,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Qual é o serviço da AWS utilizado para migrar banco de dados de forma rápida e segura?",
+    {
+        "pergunta": "Qual é o serviço da AWS utilizado para migrar banco de dados de forma rápida e segura?",
         "opcoes": {
             "a": "AWS Connect",
             "b": "AWS Snow",
@@ -917,7 +980,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Se você deseja fazer um gerenciamento total do seu banco de dados, qual é o serviço mais indicado para implementá-lo?",
+    {
+        "pergunta": "Se você deseja fazer um gerenciamento total do seu banco de dados, qual é o serviço mais indicado para implementá-lo?",
         "opcoes": {
             "a": "EC2",
             "b": "RDS",
@@ -925,7 +989,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Qual serviço da AWS que, além de ajudar na visualização dos cinco serviços que mais aumentam os custos de uma conta, disponibiliza um detalhamento minucioso sobre todos os recursos utilizados?",
+    {
+        "pergunta": "Qual serviço da AWS que, além de ajudar na visualização dos cinco serviços que mais aumentam os custos de uma conta, disponibiliza um detalhamento minucioso sobre todos os recursos utilizados?",
         "opcoes": {
             "a": "AWS Pricing",
             "b": "AWS Cost Explorer",
@@ -933,7 +998,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Qual é o serviço de mensagens desenvolvido para Apache Active MQ e Rabbit MQ que torna as integrações com sistemas legados desacoplados mais fáceis e que permitem o uso de arquiteturas híbridas?",
+    {
+        "pergunta": "Qual é o serviço de mensagens desenvolvido para Apache Active MQ e Rabbit MQ que torna as integrações com sistemas legados desacoplados mais fáceis e que permitem o uso de arquiteturas híbridas?",
         "opcoes": {
             "a": "Kafka",
             "b": "Cognito",
@@ -941,7 +1007,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Sua empresa precisa implementar a integração rápida entre escritórios em São Paulo, Moscow e 2 mil funcionários ao redor do mundo. Qual é o serviço da AWS que permite realizar essa integração de forma ágil e escalável?",
+    {
+        "pergunta": "Sua empresa precisa implementar a integração rápida entre escritórios em São Paulo, Moscow e 2 mil funcionários ao redor do mundo. Qual é o serviço da AWS que permite realizar essa integração de forma ágil e escalável?",
         "opcoes": {
             "a": "AWS VPN",
             "b": "AWS VPC",
@@ -949,7 +1016,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Qual é o modelo de planos flexíveis que oferece preços mais baixos em comparação com os preços sob demanda, em troca de um compromisso de uso específico (medido em USD/hora) por um período de um ou três anos?",
+    {
+        "pergunta": "Qual é o modelo de planos flexíveis que oferece preços mais baixos em comparação com os preços sob demanda, em troca de um compromisso de uso específico (medido em USD/hora) por um período de um ou três anos?",
         "opcoes": {
             "a": "Low Cost",
             "b": "AWS Billing",
@@ -957,7 +1025,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Você trabalha num escritório jurídico que lida com um volume muito grande de contratos. Esses documentos são alterados muitas vezes e requerem um processo de gerenciamento de versões. Qual serviço da AWS é indicado para armazenar esses documentos e atender tal requisito?",
+    {
+        "pergunta": "Você trabalha num escritório jurídico que lida com um volume muito grande de contratos. Esses documentos são alterados muitas vezes e requerem um processo de gerenciamento de versões. Qual serviço da AWS é indicado para armazenar esses documentos e atender tal requisito?",
         "opcoes": {
             "a": "CodeCommit",
             "b": "S3",
@@ -965,7 +1034,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Qual serviço da AWS deve ser usado se você deseja configurar alarme de cobrança? (AWS billing alarm)",
+    {
+        "pergunta": "Qual serviço da AWS deve ser usado se você deseja configurar alarme de cobrança? (AWS billing alarm)",
         "opcoes": {
             "a": "CloudWatch",
             "b": "CloudTrail",
@@ -973,7 +1043,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Qual banco de dados foi projetado para oferecer disponibilidade superior a 99,99% replicando seis cópias dos seus dados em três zonas diferentes e fazendo o backup continuo de seus dados no Amazon S3?",
+    {
+        "pergunta": "Qual banco de dados foi projetado para oferecer disponibilidade superior a 99,99% replicando seis cópias dos seus dados em três zonas diferentes e fazendo o backup continuo de seus dados no Amazon S3?",
         "opcoes": {
             "a": "MariaDB",
             "b": "MySQL",
@@ -981,7 +1052,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Sua empresa deseja implementar governança nos serviços de TI que estejam aprovados para uso na AWS acompanhando o custo, desempenho, segurança e status operacional dos mesmos. Qual é o serviço que permite a criação de catálogos de serviços de TI para essa finalidade?",
+    {
+        "pergunta": "Sua empresa deseja implementar governança nos serviços de TI que estejam aprovados para uso na AWS acompanhando o custo, desempenho, segurança e status operacional dos mesmos. Qual é o serviço que permite a criação de catálogos de serviços de TI para essa finalidade?",
         "opcoes": {
             "a": "AWS Catalog",
             "b": "AWS Service Catalog",
@@ -989,7 +1061,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Qual é a plataforma da AWS para Big Data em Cloud que permite integração com várias ferramentas de código livre como Apache Spark, Apache Hive, Apache HBase, Apache Flink, Apache Hudi?",
+    {
+        "pergunta": "Qual é a plataforma da AWS para Big Data em Cloud que permite integração com várias ferramentas de código livre como Apache Spark, Apache Hive, Apache HBase, Apache Flink, Apache Hudi?",
         "opcoes": {
             "a": "Amazon EMR",
             "b": "Amazon RedShit",
@@ -997,7 +1070,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Sua empresa começou a usar a AWS e precisa liberar os acessos para 100 pessoas. Uma vez que o time é composto por desenvolvedores, dbas e arquitetos, e que cada time precisa de um acesso exclusivo a determinados recursos, qual serviço você utilizará para otimizar essa gestão?",
+    {
+        "pergunta": "Sua empresa começou a usar a AWS e precisa liberar os acessos para 100 pessoas. Uma vez que o time é composto por desenvolvedores, dbas e arquitetos, e que cada time precisa de um acesso exclusivo a determinados recursos, qual serviço você utilizará para otimizar essa gestão?",
         "opcoes": {
             "a": "Organizations",
             "b": "Cognito",
@@ -1005,7 +1079,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Qual fator é considerado para calcular o Total Cost of Ownership (TCO) numa migração para a AWS?",
+    {
+        "pergunta": "Qual fator é considerado para calcular o Total Cost of Ownership (TCO) numa migração para a AWS?",
         "opcoes": {
             "a": "O número de servidores",
             "b": "O número de APIs",
@@ -1013,7 +1088,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "As principais funções do AWS Glues é transformar dados, carregar dados, extrair dados",
+    {
+        "pergunta": "As principais funções do AWS Glues é transformar dados, carregar dados, extrair dados",
         "opcoes": {
             "a": "Verdadeiro",
             "b": "Falso",
@@ -1021,7 +1097,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Se você quer desenvolver uma aplicação em Java ou C#, qual das seguintes ferramentas você pode usar?",
+    {
+        "pergunta": "Se você quer desenvolver uma aplicação em Java ou C#, qual das seguintes ferramentas você pode usar?",
         "opcoes": {
             "a": "AWS CLI",
             "b": "AWS Console",
@@ -1029,7 +1106,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Na implementação de uma estratégia de backups, qual é número máximo de snapshots manuais de RDS permitidas por região?",
+    {
+        "pergunta": "Na implementação de uma estratégia de backups, qual é número máximo de snapshots manuais de RDS permitidas por região?",
         "opcoes": {
             "a": "30",
             "b": "100",
@@ -1037,7 +1115,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "O papel do CLIENTE no modelo de responsabilidade compartilhada é proteger o data center e fazer manutenção dos hardwares",
+    {
+        "pergunta": "O papel do CLIENTE no modelo de responsabilidade compartilhada é proteger o data center e fazer manutenção dos hardwares",
         "opcoes": {
             "a": "Verdadeiro",
             "b": "Falso",
@@ -1045,7 +1124,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Sua empresa recentemente foi auditada e autuada, pois mantinha arquivos com dados sensíveis do cliente expostos na sua rede interna, colocando em risco a imagem do cliente e da empresa. Qual serviço da AWS pode ser utilizado para monitorar os dados e evitar esse tipo de ocorrência?",
+    {
+        "pergunta": "Sua empresa recentemente foi auditada e autuada, pois mantinha arquivos com dados sensíveis do cliente expostos na sua rede interna, colocando em risco a imagem do cliente e da empresa. Qual serviço da AWS pode ser utilizado para monitorar os dados e evitar esse tipo de ocorrência?",
         "opcoes": {
             "a": "AWS Macie",
             "b": "AWS KMS",
@@ -1053,7 +1133,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Sua empresa começou a utilizar o ECS e conteinerizou 2 microsserviços de uma aplicação que possuem cargas de trabalho diferentes ao longo dia. O primeiro tem mais acessos durante a manhã e o segundo tem mais acesso à tarde, invertendo o cenário no consumo de recursos. Qual solução você deve adotar para que esses serviços escalem de forma automática para otimizar o uso dos recursos da sua infraestrutura?",
+    {
+        "pergunta": "Sua empresa começou a utilizar o ECS e conteinerizou 2 microsserviços de uma aplicação que possuem cargas de trabalho diferentes ao longo dia. O primeiro tem mais acessos durante a manhã e o segundo tem mais acesso à tarde, invertendo o cenário no consumo de recursos. Qual solução você deve adotar para que esses serviços escalem de forma automática para otimizar o uso dos recursos da sua infraestrutura?",
         "opcoes": {
             "a": "EC2",
             "b": "ECS",
@@ -1061,7 +1142,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Qual é o banco de dados sem servidor (serverless) ofertado pela AWS?",
+    {
+        "pergunta": "Qual é o banco de dados sem servidor (serverless) ofertado pela AWS?",
         "opcoes": {
             "a": "MySQL",
             "b": "DynamoDB",
@@ -1069,7 +1151,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Você construiu uma aplicação no EC2 que se conecta aos dados no RDS. Qual serviço você deve utilizar para que as devidas configurações de acesso entre a aplicação e o banco de dados sejam realizadas?",
+    {
+        "pergunta": "Você construiu uma aplicação no EC2 que se conecta aos dados no RDS. Qual serviço você deve utilizar para que as devidas configurações de acesso entre a aplicação e o banco de dados sejam realizadas?",
         "opcoes": {
             "a": "IAM Roles",
             "b": "IAM Users",
@@ -1077,7 +1160,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Qual é o formato de arquivo utilizado na maioria das configurações de serviços da AWS?",
+    {
+        "pergunta": "Qual é o formato de arquivo utilizado na maioria das configurações de serviços da AWS?",
         "opcoes": {
             "a": "XML",
             "b": "TXT",
@@ -1085,7 +1169,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Sua empresa está desenhando uma nova plataforma para distribuição de vídeos em nível global. Qual é o serviço que pode diminuir a latência entre a requisição e entrega do serviço?",
+    {
+        "pergunta": "Sua empresa está desenhando uma nova plataforma para distribuição de vídeos em nível global. Qual é o serviço que pode diminuir a latência entre a requisição e entrega do serviço?",
         "opcoes": {
             "a": "Amazon S3",
             "b": "Amazon CloudFront",
@@ -1093,7 +1178,8 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Qual serviço é utilizado para logar as ações dos seus usuários dentro da AWS?",
+    {
+        "pergunta": "Qual serviço é utilizado para logar as ações dos seus usuários dentro da AWS?",
         "opcoes": {
             "a": "CloudTrail",
             "b": "CloudFront",
@@ -1101,7 +1187,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Qual é o serviço, que através da infraestrutura global da AWS, pode ser utilizado quando as suas aplicações apresentarem problemas de tráfego devido ao congestionamento da Internet?",
+    {
+        "pergunta": "Qual é o serviço, que através da infraestrutura global da AWS, pode ser utilizado quando as suas aplicações apresentarem problemas de tráfego devido ao congestionamento da Internet?",
         "opcoes": {
             "a": "AWS Snownball",
             "b": "AWS DataSync",
@@ -1109,7 +1196,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Qual serviço que é totalmente gerenciado pela AWS e que faz parte da arquitetura da esteira de integração contínua que compila, testa e cria pacotes para a implantação?",
+    {
+        "pergunta": "Qual serviço que é totalmente gerenciado pela AWS e que faz parte da arquitetura da esteira de integração contínua que compila, testa e cria pacotes para a implantação?",
         "opcoes": {
             "a": "AWS CodeBuild",
             "b": "AWS Pipeline",
@@ -1117,7 +1205,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Como você pode proteger sua conta da AWS contra acessos não autorizados?",
+    {
+        "pergunta": "Como você pode proteger sua conta da AWS contra acessos não autorizados?",
         "opcoes": {
             "a": "Habilitar o MFA",
             "b": "Configurando uma segunda senha",
@@ -1125,7 +1214,8 @@
         },
         "resposta": "a"
     },
-    {"pergunta": "Você é uma pessoa desenvolvedora e gostaria de acessar os serviços da AWS diretamente da sua IDE(IntelliJ, Visual Code, Eclipse, etc..). Qual serviço oferece uma ferramenta (toolkit) para ser baixada e instalada na sua estação de trabalho e que permita tal integração?",
+    {
+        "pergunta": "Você é uma pessoa desenvolvedora e gostaria de acessar os serviços da AWS diretamente da sua IDE(IntelliJ, Visual Code, Eclipse, etc..). Qual serviço oferece uma ferramenta (toolkit) para ser baixada e instalada na sua estação de trabalho e que permita tal integração?",
         "opcoes": {
             "a": "AWS Workspaces",
             "b": "AWS CLI",
@@ -1133,7 +1223,8 @@
         },
         "resposta": "c"
     },
-    {"pergunta": "Qual serviço oferece um grupo de ferramentas que podem ser usadas em conjunto ou individualmente para permitir que desenvolvedores de front-end da web e de dispositivos móveis criem aplicações seguras e escaláveis full-stack, com tecnologia desenvolvida pela AWS?",
+    {
+        "pergunta": "Qual serviço oferece um grupo de ferramentas que podem ser usadas em conjunto ou individualmente para permitir que desenvolvedores de front-end da web e de dispositivos móveis criem aplicações seguras e escaláveis full-stack, com tecnologia desenvolvida pela AWS?",
         "opcoes": {
             "a": "AWS Fargate",
             "b": "AWS Amplify",
@@ -1141,12 +1232,166 @@
         },
         "resposta": "b"
     },
-    {"pergunta": "Qual item abaixo é de responsabilidade dos clientes quando é preciso garantir que dados em volumes EBS  estejam seguros e com seus backups realizados?",
+    {
+        "pergunta": "Qual item abaixo é de responsabilidade dos clientes quando é preciso garantir que dados em volumes EBS  estejam seguros e com seus backups realizados?",
         "opcoes": {
             "a": "Criar EBS Snapshot",
             "b": "Criar cópias do EBS Volumes",
             "c": "Anexar volumes em instâncias EC2"
         },
         "resposta": "a"
+    },
+    {
+        "pergunta": "Qual é a opção abaixo que faz uso da infraestrutura das Redes de Borda (EdgeLocations) e Pontos de Presença  para transferir em alta velocidade arquivos entre S3 Buckets?",
+        "opcoes": {
+            "a": "CloudFront",
+            "b": "AWS VPN",
+            "c": "S3 Transfer Accelerations"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Qual recurso da AWS habilita  o usuário a gerenciar os serviços através de interface web?",
+        "opcoes": {
+            "a": "AWS Software Development Kit (SDK)",
+            "b": "AWS Mangement Console",
+            "c": "AWS CloudWatch"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Quais dos seguintes serviços permitem a criação de scripts e automação a partir da linha de comando?",
+        "opcoes": {
+            "a": "AWS Run",
+            "b": "AWS Console",
+            "c": "AWS CLI"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Qual serviço utiliza Inteligência Artificial e analisa dados gerados por eventos de diversos serviços e armazenados no S3, evitando que atividades maliciosas sejam realizadas",
+        "opcoes": {
+            "a": "AWS Macie",
+            "b": "AWS GuardDuty",
+            "c": "AWS Shield"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Qual é o serviço que permite coletar e armazenar logs de recursos, aplicativos e serviços, praticamente em tempo real, para diversas finalidades de processos e negócio",
+        "opcoes": {
+            "a": "Logs",
+            "b": "CloudLogs",
+            "c": "CloudWatch Logs"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Qual NÃO é uma característica do Amazon Cognito",
+        "opcoes": {
+            "a": "adiciona autenticação em aplicativo web e móveis",
+            "b": "permite autenticação de APls pela linha de comando",
+            "c": "integra com a autenticação de midias sociais como Apple, Facebook, Google e Amazon"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Qual serviço da AWS abaixo deve ser utilizado para liberar acesso na conta para 3 desenvolvedores novos que chegaram no seu time",
+        "opcoes": {
+            "a": "CloudFront",
+            "b": "S3",
+            "c": "IAM"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Sua empresa precisa implementar mais segurança em seus recursos na AWS. Qual é o serviço que permite provisionar, gerenciar e implantar facilmente certificados Secure Sockets Layer (SSL)/Transport Layer Security (TLS) para que sejam usados com os serviços da AWS e os recursos internos conectados",
+        "opcoes": {
+            "a": "AWS Certificate Manager",
+            "b": "AWS Protocols",
+            "c": "AWS KMS"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Você vai lançar uma aplicação que precisa de 5 a 10 instâncias EC2 ativas de acordo com a quantidade de usuários logados. Qual é o serviço da AWS que possui um mecanismo para direcionar as requisições de forma distribuída entre esses servidores",
+        "opcoes": {
+            "a": "Securit Group",
+            "b": "Route53",
+            "c": "ELB"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Qual é o serviço de data warehouse da Amazon utilizado pelas áreas de BI, que permite o cruzamento de vários dados estruturado e semi estruturados para gerar conhecimento para o negócio",
+        "opcoes": {
+            "a": "Power BI",
+            "b": "Amazon RedShift",
+            "c": "Kinesis"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Qual é o serviço que através das melhores práticas, pode ser utilizado para te ajudar a identificar vulnerabilidades e desvios de segurança em aplicativos, antes de serem implantados ou enquanto estiverem em execução em ambiente de produção",
+        "opcoes": {
+            "a": "AWS Inspector",
+            "b": "AWS GuarDuty",
+            "c": "AWS Trusted Advisor"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Qual conhecimento o seu time precisa para criar aplicações que façam uso do banco de dados DynamoDB",
+        "opcoes": {
+            "a": "Comandos SQL",
+            "b": "GraphQI",
+            "c": "API do srviço e o json com atributos e comandos"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Qual é o serviço de integração, totalmente gerenciado pela AWS, que permite transferir dados com segurança entre aplicativos de Software como Serviço (SaaS) como: Salesforce, Zendesk, Slack e ServiceNow, Amazon S3 e Amazon Redshift",
+        "opcoes": {
+            "a": "Amazon AppFlow",
+            "b": "Amazon EvntBridge",
+            "c": "Amazon DMS"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Uma aplicação crítica utiliza de 5 a 10 instâncias EC2 para suportar a grande volumetria de requisição e processamento. Pelos seus estudos, essa infraestrutura atenderá a necessidade pelos próximos 3 anos sem grandes alterações. Qual seria a melhor estratégia para garantir a escalabilidade e otimizar os custos",
+        "opcoes": {
+            "a": "10 instâncias Reserved",
+            "b": "10 instâncias OnDemand",
+            "c": "5 instâncias Reserved e 5 instancias OnDemand"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "A área de marketing da sua empresa está planejando fazer uma campanha que durará 12 meses, em vista disso, você foi avisado que haverá um aumento no número de clientes no site e viu que será necessário subir mais 3  instâncias EC2 para atender a demanda durante esse período. Qual tipo de instância terá um melhor custo nesse cenário",
+        "opcoes": {
+            "a": "Reserved",
+            "b": "Spot",
+            "c": "On Demand"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "A classe de armazenamento do S3 Intelligent-Tiering pode diminuir os custos, à medida que move os objetos automaticamente entre camadas",
+        "opcoes": {
+            "a": "verdadeiro",
+            "b": "falso",
+            "c": "N/D"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Qual NÃO faz parte das principais funcionalidades do Amazon SageMaker",
+        "opcoes": {
+            "a": "Preparar, Contruir e Inplantar modelos de banco de dados na AWS ",
+            "b": "Oferecer uma IDE para uso de Machine Learning",
+            "c": "Preparar, documentar e publicar APIs cm aml sawgger"
+        },
+        "resposta": "c"
     }
 ]

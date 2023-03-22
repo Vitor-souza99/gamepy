@@ -1,0 +1,1397 @@
+[
+    {
+        "pergunta": "What is the main AWS object storage service?",
+        "opcoes": {
+            "a": "Amazon S3",
+            "b": "Amazon EC2",
+            "c": "Amazon RDS"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the Amazon EC2 billing unit?",
+        "opcoes": {
+            "a": "Per hour",
+            "b": "Per minute",
+            "c": "Per second"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the main AWS load balancing service?",
+        "opcoes": {
+            "a": "Amazon EC2 Auto Scaling",
+            "b": "Amazon CloudFront",
+            "c": "Elastic Load Balancing"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the AWS service that allows relational database management?",
+        "opcoes": {
+            "a": "Amazon DynamoDB",
+            "b": "Amazon S3",
+            "c": "Amazon RDS"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the main AWS content management service?",
+        "opcoes": {
+            "a": "Amazon CloudFront",
+            "b": "Amazon S3",
+            "c": "Amazon CloudSearch"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "What is the main video streaming service on AWS?",
+        "opcoes": {
+            "a": "Amazon Elastic Transcoder",
+            "b": "Amazon CloudFront",
+            "c": "Amazon Kinesis"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Which AWS service allows you to send bulk emails?",
+        "opcoes": {
+            "a": "Amazon Simple Queue Service",
+            "b": "Amazon Simple Email Service",
+            "c": "Amazon Elastic Load Balancer"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "What is the AWS service that allows you to run code in response to events?",
+        "opcoes": {
+            "a": "AWS Lambda",
+            "b": "Amazon EC2 Auto Scaling",
+            "c": "Amazon Elastic Load Balancer"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows storing and querying unstructured data?",
+        "opcoes": {
+            "a": "Amazon Redshift",
+            "b": "Amazon Glacier",
+            "c": "Amazon DynamoDB"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is AWS's premier serverless computing service?",
+        "opcoes": {
+            "a": "AWS Lambda",
+            "b": "Amazon EC2",
+            "c": "Amazon S3"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that enables security and compliance management?",
+        "opcoes": {
+            "a": "Amazon Inspector",
+            "b": "Amazon CloudFront",
+            "c": "Amazon Glacier"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of mobile applications?",
+        "opcoes": {
+            "a": "Amazon EC2",
+            "b": "Amazon AppStream",
+            "c": "Amazon Cognito"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of APIs?",
+        "opcoes": {
+            "a": "Amazon API Gateway",
+            "b": "Amazon Kinesis",
+            "c": "Amazon RDS"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows you to store and access data at scale, with high availability and durability, and without the need to provision infrastructure?",
+        "opcoes": {
+            "a": "Amazon S3",
+            "b": "Amazon EC2",
+            "c": "Amazon CloudFront"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of virtual private networks?",
+        "opcoes": {
+            "a": "Amazon VPC",
+            "b": "Amazon S3",
+            "c": "Amazon EC2"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of NoSQL databases?",
+        "opcoes": {
+            "a": "Amazon RDS",
+            "b": "Amazon DynamoDB",
+            "c": "Amazon Redshift"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "What is the AWS service that allows you to perform large-scale data analysis tasks?",
+        "opcoes": {
+            "a": "Amazon Athena",
+            "b": "Amazon EMR",
+            "c": "Amazon Kinesis"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which AWS service allows cryptographic key management?",
+        "opcoes": {
+            "a": "Amazon EC2",
+            "b": "AWS Key Management Service",
+            "c": "Amazon S3"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of automation rules?",
+        "opcoes": {
+            "a": "Amazon Inspector",
+            "b": "Amazon CloudWatch",
+            "c": "AWS Systems Manager"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Which AWS service allows you to create automation workflows?",
+        "opcoes": {
+            "a": "Amazon Simple Workflow Service",
+            "b": "AWS Step Functions",
+            "c": "AWS Lambda"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which AWS service allows caching data?",
+        "opcoes": {
+            "a": "Amazon ElastiCache",
+            "b": "Amazon RDS",
+            "c": "Amazon DynamoDB"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows you to create applications for IoT devices?",
+        "opcoes": {
+            "a": "AWS IoT Core",
+            "b": "Amazon Kinesis",
+            "c": "Amazon RDS"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows you to perform backups of EC2 servers?",
+        "opcoes": {
+            "a": "Amazon RDS",
+            "b": "Amazon EC2 Auto Scaling",
+            "c": "Amazon Elastic Block Store"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of artificial intelligence solutions?",
+        "opcoes": {
+            "a": "Amazon SageMaker",
+            "b": "Amazon S3",
+            "c": "AWS Glue"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of high performance computing clusters?",
+        "opcoes": {
+            "a": "Amazon EC2 Auto Scaling",
+            "b": "Amazon Redshift",
+            "c": "Amazon EMR"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of high performance computing clusters?",
+        "opcoes": {
+            "a": "Amazon EC2 Auto Scaling",
+            "b": "Amazon Redshift",
+            "c": "Amazon EMR"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of chatbot applications?",
+        "opcoes": {
+            "a": "Amazon Polly",
+            "b": "Amazon Lex",
+            "c": "Amazon Rekognition"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the monitoring of applications and infrastructure?",
+        "opcoes": {
+            "a": "Amazon CloudWatch",
+            "b": "AWS X-Ray",
+            "c": "AWS Config"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows container management?",
+        "opcoes": {
+            "a": "Amazon S3",
+            "b": "AWS Elastic Beanstalk",
+            "c": "Amazon ECS"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the management of software development pipelines?",
+        "opcoes": {
+            "a": "Amazon EC2",
+            "b": "AWS Lambda",
+            "c": "AWS CodePipeline"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the AWS service that allows you to build custom machine learning solutions?",
+        "opcoes": {
+            "a": "Amazon SageMaker",
+            "b": "AWS Glue",
+            "c": "Amazon Redshift"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Which AWS service allows you to create in-memory databases?",
+        "opcoes": {
+            "a": "Amazon RDS",
+            "b": "Amazon ElastivCache",
+            "c": "Amazon DynamoDB"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of real-time data transmission solutions?",
+        "opcoes": {
+            "a": "Amazon Kinesis",
+            "b": "Amazon CloudFront",
+            "c": "Amazon S3"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows you to create speech recognition solutions?",
+        "opcoes": {
+            "a": "Amazon Rekogniton",
+            "b": "Amazon Polly",
+            "c": "Amazon Lex"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the AWS service that allows you to create recommendation solutions?",
+        "opcoes": {
+            "a": "AWS Step Functions",
+            "b": "Amazon Personalize",
+            "c": "Amazon EC2"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of machine translation solutions?",
+        "opcoes": {
+            "a": "Amazon Comprehend",
+            "b": "Amazon Translate",
+            "c": "Amazon Textract"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "What is the AWS service that allows you to create sentiment analysis solutions?",
+        "opcoes": {
+            "a": "Amazon Comprehend",
+            "b": "Amazon Translate",
+            "c": "Amazon"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows you to build natural language processing solutions?",
+        "opcoes": {
+            "a": "Amazon Comprehend",
+            "b": "Amazon SageMaker",
+            "c": "Amazon Rekognition"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows you to create video analytics solutions?",
+        "opcoes": {
+            "a": "Amazon Kinesis Video Streams",
+            "b": "AWS Lambda",
+            "c": "Amazon S3"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of image analysis solutions?",
+        "opcoes": {
+            "a": "Amazon Lex",
+            "b": "Amazon Polly",
+            "c": "Amazon Rekognition"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of business process automation solutions?",
+        "opcoes": {
+            "a": "Amazon SES",
+            "b": "AWS Step Functions",
+            "c": "Amazon Pinpoint"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which AWS service allows you to create scalable compute instances?",
+        "opcoes": {
+            "a": "Amazon EC2",
+            "b": "AWS Lambda",
+            "c": "Amazon S3"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows creating managed DB instances?",
+        "opcoes": {
+            "a": "Amazon RDS",
+            "b": "Amazon DynamoDB",
+            "c": "Amazon ElastiCache"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of virtual machine instances optimized for high performance computing?",
+        "opcoes": {
+            "a": "Amazon EC2 T2",
+            "b": "Amazon EC2 P3",
+            "c": "Amazon EC2 C5"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Which AWS service allows you to create pre-configured virtual machine instances for specific applications?",
+        "opcoes": {
+            "a": "Amazon EC2 AMIs",
+            "b": "AWS Elastic Beanstalk",
+            "c": "Amazon S3"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS service that allows the creation of instances of virtual machines with automatic load balancing?",
+        "opcoes": {
+            "a": "Amazon EC2",
+            "b": "Amazon EC2 Auto Scaling",
+            "c": "AWS Lambda"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Scale in shrinks EC2 instances when demand stops.",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Scale out grows EC2 instances on demand.",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Auto Scaling Group is free, you only pay for the instances that are running",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What are the five support plans offered by AWS?",
+        "opcoes": {
+            "a": "Basic, Developer, Business, Advanced, Enterprise On-Ramp",
+            "b": "Bronze Silver, Gold, Diamond, Ruby",
+            "c": "Basic, Developer, Business, Enterprise On-Ramp, Enterprise"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the serverless service that allows the execution of queries using standard SQL to analyze data in Amazon S3?",
+        "opcoes": {
+            "a": "EMR",
+            "b": "Athena",
+            "c": "Amazon Query Analyzer"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "In a systems migration, you realized that there is data in your application that is rarely used and that could be kept in files only for auditing purposes. What is the AWS service that can be used for this purpose with the lowest possible cost?",
+        "opcoes": {
+            "a": "S3 Standard",
+            "b": "S3 Infrequent Access",
+            "c": "S3 Glacier"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Using AWS services, what is the expected sequence in a CI/CD pipeline?",
+        "opcoes": {
+            "a": "CodeDeploy, CodeCommit, CodeBuild",
+            "b": "CodeCommit, CodeBuild, CodeDeploy",
+            "c": "CodeBuild, CodeDeploy, CodeComit"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which service is used to provision Desktops using Windows or Linux?",
+        "opcoes": {
+            "a": "Amazon WorkSpaces",
+            "b": "Amazon Desktop",
+            "c": "Amazon EC2"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "How do you allow your services to always be exposed on the same IP address and allow the hosts associated with it to be easily replaced in your infrastructure?",
+        "opcoes": {
+            "a": "Using an IPV4",
+            "b": "Using an Elastic IP",
+            "c": "Using an IPV6"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which service allows you to establish a dedicated connection between your on-premise infrastructure and AWS, improving connections and increasing throughput?",
+        "opcoes": {
+            "a": "AWS DataSync",
+            "b": "Amazon DMS",
+            "c": "AWS Direct Connect"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the user used to access the AWS Console for the first time and who has access to all account resources? (Not recommended for day-to-day use.)",
+        "opcoes": {
+            "a": "AWS Account Root User",
+            "b": "AWS IAM",
+            "c": "AWS Administrator"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the AWS fully managed relational database that can be 5x faster than MySQL?",
+        "opcoes": {
+            "a": "MariaDB",
+            "b": "Aurora",
+            "c": "RedShit"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "You are migrating part of an application that works with the file system to store and manipulate some data. Which of the opcoes below indicates the service that can be used to serve this part of the application on AWS?",
+        "opcoes": {
+            "a": "EFS",
+            "b": "KMS",
+            "c": "EC2"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Which AWS service has a catalog where customers can find applications developed by third parties, ready to be installed and run to meet the most diverse business needs?",
+        "opcoes": {
+            "a": "AWS Config",
+            "b": "AWS AMI",
+            "c": "AWS Marketplace"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Which AWS service allows you to run code without provisioning or managing servers?",
+        "opcoes": {
+            "a": "AWS Lightsail",
+            "b": "AWS Lambda",
+            "c": "AWS Elastic Beanstalk"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Your company has been using the AWS Cloud for some time, and at the last meeting it was decided to create a WordPress-style business blog. Which of these AWS services fulfills the request as quickly as possible, with minimal configuration and with low cost?",
+        "opcoes": {
+            "a": "AWS Lightsail",
+            "b": "AWS Elastic Beanstalk",
+            "c": "AWS Lambda"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "You are an application developer, who needs to upload a web application that has load balancing, high availability (multi az), auto scaling group and is secure. Which platform as a service (PaaS) should you use ?",
+        "opcoes": {
+            "a": "AWS Elastic Beanstalk",
+            "b": "AWS Lambda",
+            "c": "AWS Lightsail"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Which instance model is cheaper?",
+        "opcoes": {
+            "a": "On demand",
+            "b": "Spot inatances",
+            "c": "Dedicated Host"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which On-Demand Instance model is the cheapest",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which option describes the function of the Elastic Load Balancer service?",
+        "opcoes": {
+            "a": "Instantate a new machine when one of the machines fails",
+            "b": "Distribute incoming traffic between instances in different regions",
+            "c": "Distribute incoming traffic among your instances"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "You need to implement a DR (Disaster Recovery) strategy in your company, what is the best recommendation to use AWS RDS?",
+        "opcoes": {
+            "a": "Read Replicas (make read copies)",
+            "b": "Multi AZ (spread across different Availability Zones)",
+            "c": "Multi Regions (spread across different regions)"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "The benefits of S3 are: virtually limited storage, share files or create static website, store snapshops, backups, generate hybrid storage from your on-premises environment, data lake repository and big data analytics, low latency and high speed, durability 99.999999999 (eleven nines)",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "You work at an online travel agency and need to store, analyze and correlate log data from your applications to identify and resolve performance bottlenecks and availability issues to ensure an optimized booking experience for your customers. AWS service below is the best one?",
+        "opcoes": {
+            "a": "Amazon CloudFront",
+            "b": "Amazon OpenSearch",
+            "c": "Amazon CloudSearch"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "You are auditing your company's infrastructure on AWS to try to identify unscheduled actions of resource shutdowns. What service can help you with this activity?",
+        "opcoes": {
+            "a": "AWS CloudSearch",
+            "b": "AWS Audit",
+            "c": "AWS CloudTrail"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Use of network resources, virtual computers and data storage with a high level of flexibility, management and control over IT resources are characteristic of which type of cloud use?",
+        "opcoes": {
+            "a": "IaaS",
+            "b": "PaaS",
+            "c": "SaaS"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "How much data can you store in S3?",
+        "opcoes": {
+            "a": "1 Terabytes",
+            "b": "Capacity is virtually unlimited",
+            "c": "5 Gigabytes"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which of the opcoes below is the class that can make using S3 more expensive?",
+        "opcoes": {
+            "a": "Standard",
+            "b": "Glacier",
+            "c": "Glacier Deep Archive"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the high-performance service designed to provide block-storage for EC2 instances?",
+        "opcoes": {
+            "a": "S3",
+            "b": "EBS",
+            "c": "EFS"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Your company wants to standardize and version the configurations for the creation of all the databases, in addition, it wants these services to be implemented and updated in all the servers in an automated way, using CI/CD pipelines. What is the recommended service for this requirement?",
+        "opcoes": {
+            "a": "AWS RDS",
+            "b": "AWS CodePipeline",
+            "c": "AWS CloudFormation"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "You need to automate a process that performs several tasks sequentially on your system. What is the most suitable service for this need?",
+        "opcoes": {
+            "a": "AWS Kinesis",
+            "b": "AWS Batch",
+            "c": "AWS EventBridge"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "You deployed an application in production that is not working and in the log there is a message of access denied to DynamoDB. What service do you need to check and correctly configure to validate this access?",
+        "opcoes": {
+            "a": "AWS IAM Roles",
+            "b": "AWS Config",
+            "c": "AWS IAM Policy"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "You want to monitor the percentage of memory your servers are using at a certain time of the day. What AWS service can you use for this purpose?",
+        "opcoes": {
+            "a": "AWS CloudTrail",
+            "b": "AWS Cost Explorer",
+            "c": "AWS CloudWatch"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Your company's information security team classified your site as having a high risk of exposing sensitive data, messages exchanged between users and servers are not being encrypted. What service can help fix this problem? ",
+        "opcoes": {
+            "a": "AWS Certificate Manager",
+            "b": "AWS IAM",
+            "c": "AWS KMS"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Your company started a process of digital transformation of all its platforms and decided to use an event-driven systems architecture. Which of the services below can be used as a scalable event bus to facilitate the creation of this architecture? ",
+        "opcoes": {
+            "a": "Amazon Lambda",
+            "b": "Amazon EventBridge",
+            "c": "Amazon KMS"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "You will make a critical application and sensitive data available on the Internet. What is the service that helps you identify security vulnerabilities and exposure risks according to best practices and compliance?",
+        "opcoes": {
+            "a": "AWS Inspector",
+            "b": "AWS GuardDuty",
+            "c": "AWS Macie"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "In a hybrid cloud deployment strategy, where you want to keep your workload on-premises and part of the files in AWS. Which option below offers a range of services to accomplish this integration and storage purpose for your architecture? ",
+        "opcoes": {
+            "a": "AWS Organizations",
+            "b": "AWS Storage Gateway",
+            "c": "AWS DMS"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "The Well-Architected framework has 5 pillars: Operational Excellence, Security, Reliability, Efficient Performance and Optimized Cost.",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "One of the ways to guarantee elasticity and economy in the use of EC2 is to keep program and system files in different computational resources. Which service can be used for this?",
+        "opcoes": {
+            "a": "S3",
+            "b": "EBS",
+            "c": "git"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "You have implemented a system with microservices architecture and need to debug each one of them, starting from the user request to understand the performance and identify opportunities for improvement. Which AWS service is the most suitable for this purpose (both in development environment as well as in production environment)?",
+        "opcoes": {
+            "a": "AWS X-Ray",
+            "b": "AWS Lexa",
+            "c": "AWS CloudWatch"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is Free Tier?",
+        "opcoes": {
+            "a": "NoSQL Database Layer",
+            "b": "Firewall service that protects your applications",
+            "c": "A usage model where AWS is not billed"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": " service that allows applications to send time-critical messages to multiple subscribers via a 'push' mechanism, eliminating the need to periodically check or 'pull' for updates.",
+        "opcoes": {
+            "a": "SQS",
+            "b": "SNS",
+            "c": "SES"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "message queue service, used by distributed applications to exchange messages via a polling model, and can be used to decouple sending and receiving components.",
+        "opcoes": {
+            "a": "SQS",
+            "b": "SNS",
+            "c": "SES"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "A third-party application will generate a file in a different layout than your system expects. What AWS service can you use to transform the file and upload it to your system?",
+        "opcoes": {
+            "a": "AWS DataSync",
+            "b": "AWS AWS DTS",
+            "c": "AWS Glue"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": " You recently implemented a pilot application in your company. To carry out the rollout of the project, your CTO asked you to present the expenses with AWS infrastructure during the period for evaluation and approval of the expansion. What is the service you provide These information?",
+        "opcoes": {
+            "a": "AWS CostExplorer",
+            "b": "AWS Budgets",
+            "c": "AWS Price Calculator"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": " Your development team has identified that a relational database has low performance, the competition between a large volume of queries and other actions in the database have increased latency in data traffic. What is the way quicker and more economical way to solve this problem?",
+        "opcoes": {
+            "a": "Update the database access role",
+            "b": "Make use of Read Replicas",
+            "c": "Replace RDS with Dynamo"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which statement below does NOT refer to AWS Lambda?",
+        "opcoes": {
+            "a": "Can be triggered directly by AWS SNS",
+            "b": "Can be triggered directly from AWS S3",
+            "c": "Allows full management of infrastructure resources"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Amazon QuickSight creates BI DashBoards using Machine Learning (ML)",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Amazon DynamoDB is a relational database",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": " What service do you need to configure to control incoming and outgoing data traffic on a database server park, within your private network on AWS?",
+        "opcoes": {
+            "a": "AWS WAF",
+            "b": "AWS GuardDuty",
+            "c": "AWS Security Group"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": " Which service allows the creation of a totally isolated virtual network to allocate several computational resources in AWS?",
+        "opcoes": {
+            "a": "AWS VPC",
+            "b": "AWS Gateway",
+            "c": "AWS Host Dedicated"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Which AWS service is recommended for estimating the cost of implementing cloud services for your business?",
+        "opcoes": {
+            "a": "AWS Billing",
+            "b": "AWS Cost Explorer",
+            "c": "AWS Princing Calculator"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": " You are developing a mobile application and need to implement data storage and synchronization for several devices. What is the AWS service that can be used for this purpose?",
+        "opcoes": {
+            "a": "AWS Cognito",
+            "b": "AWS Redis",
+            "c": "AWS DynamoDB"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": " You lead a small development team and want to use a microservices architecture with containers. What service can help you with a serverless approach that brings speed in deliveries, since you don't have to worry about security issues? infrastructure?",
+        "opcoes": {
+            "a": "ECS",
+            "b": "Fargate",
+            "c": "EKS"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": " You need to implement on your site a functionality to perform searches in all pages and files to facilitate your navigation and user experience. Which SAAS available on AWS provides robust tools to fulfill this purpose and that can be easily used in your application?",
+        "opcoes": {
+            "a": "Amazon Athena",
+            "b": "Amazon OpenSearch",
+            "c": "Amazon CloudSearch"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What service is used to allow applications to access restricted service resources within AWS?",
+        "opcoes": {
+            "a": "IAM Roles",
+            "b": "IAM Policies",
+            "c": "IAM Groups"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the biggest difference between AWS RDS and DynamoDB services?",
+        "opcoes": {
+            "a": "RDS is NoSQL, DynamoDB is SQL",
+            "b": "N/A",
+            "c": "RDS is SQL, DynamoDB is NoSQL"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Which service is capable of collecting and processing, in real time, a large volume of data streams from different devices, generating new information for quick reactions and directions?",
+        "opcoes": {
+            "a": "Kinesis",
+            "b": "EventBridge",
+            "c": "SQS"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Your company has several areas that must build their applications within AWS using pre-defined infrastructure templates by the team of architects. The solutions must be implemented as IAC code (Infra as Code). Which service can be used for this purpose?",
+        "opcoes": {
+            "a": "AWS Config",
+            "b": "AWS CloudFormation",
+            "c": "AWS Glue"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Your development team is building a CI/CD pipeline for a new application on AWS, what service do they need to add at the end of the conveyor belt to deploy the application to servers in an automated fashion?",
+        "opcoes": {
+            "a": "AWS Git",
+            "b": "AWS CodeCommit",
+            "c": "AWS CodeDeploy"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Your customers from Europe and Australia are complaining that your site is taking too long to load images, giving them a very poor experience. Since you use your infrastructure in the São Paulo Region, the What could you do right away to improve this scenario?",
+        "opcoes": {
+            "a": "Enable CloudFront",
+            "b": "Enable CloudFormation",
+            "c": "Create an EC2 instance"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "One of the great advantages of using AWS is the payment methods for its services. What is the standard payment method used in most of its services?",
+        "opcoes": {
+            "a": "Payment according to purchase",
+            "b": "Pay as you go",
+            "c": "Payment as per contract"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "What is the model for using the cloud where it is not necessary to worry about the management of technology infrastructure resources, allowing the customer's focus to be mainly on the development of applications that will run on the resources?",
+        "opcoes": {
+            "a": "IaaS",
+            "b": "PaaS",
+            "c": "SaaS"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which AWS service do you use to quickly and securely migrate databases?",
+        "opcoes": {
+            "a": "AWS Connect",
+            "b": "AWS Snow",
+            "c": "AWS DMS"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "If you want to do a total management of your database, what is the best service to implement it?",
+        "opcoes": {
+            "a": "EC2",
+            "b": "RDS",
+            "c": "DynamoDB"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Which AWS service, in addition to helping to visualize the five services that most increase the costs of an account, provides a detailed breakdown of all the resources used?",
+        "opcoes": {
+            "a": "AWS Pricing",
+            "b": "AWS Cost Explorer",
+            "c": "AWS Budget"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "What is the messaging service developed for Apache Active MQ and Rabbit MQ that makes integrations with decoupled legacy systems easier and that allows the use of hybrid architectures?",
+        "opcoes": {
+            "a": "Kafka",
+            "b": "cognito",
+            "c": "Amazon MQ"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Your company needs to implement rapid integration between offices in São Paulo, Moscow and 2,000 employees around the world. What is the AWS service that allows you to perform this integration in an agile and scalable way?",
+        "opcoes": {
+            "a": "AWS VPN",
+            "b": "AWS VPC",
+            "c": "AWS DataSync"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Which flexible plan model offers lower pricing compared to on-demand pricing in exchange for a specific usage commitment (measured in USD/hour) for a period of one or three years? ",
+        "opcoes": {
+            "a": "Low Cost",
+            "b": "AWS Billing",
+            "c": "Saving Plans"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "You work in a law firm that handles a very large volume of contracts. These documents change often and require a version management process. Which AWS service is best suited to store these documents and meet this requirement ?",
+        "opcoes": {
+            "a": "CodeCommit",
+            "b": "S3",
+            "c": "EBS"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which AWS service should be used if you want to configure billing alarm? (AWS billing alarm)",
+        "opcoes": {
+            "a": "CloudWatch",
+            "b": "CloudTrail",
+            "c": "CludBilling"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Which database is designed to provide greater than 99.99% availability by replicating six copies of your data across three different zones and continuously backing up your data to Amazon S3?",
+        "opcoes": {
+            "a": "MariaDB",
+            "b": "MySQL",
+            "c": "Aurora"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Your company wants to implement governance in the IT services that are approved for use in AWS, tracking their cost, performance, security and operational status. What is the service that allows the creation of IT service catalogs for this purpose?",
+        "opcoes": {
+            "a": "AWS Catalog",
+            "b": "AWS Service Catalog",
+            "c": "AWS Console Manager"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "What is the AWS platform for Big Data in the Cloud that allows integration with various open source tools like Apache Spark, Apache Hive, Apache HBase, Apache Flink, Apache Hudi?",
+        "opcoes": {
+            "a": "Amazon EMR",
+            "b": "Amazon RedShit",
+            "c": "Amazon Kinesis"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Your company started using AWS and needs to grant access to 100 people. Since the team is composed of developers, dbas and architects, and each team needs exclusive access to certain resources, which service will you use to optimize this management?",
+        "opcoes": {
+            "a": "Organizations",
+            "b": "cognito",
+            "c": "IAM Groups"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What factor is considered to calculate the Total Cost of Ownership (TCO) in a migration to AWS?",
+        "opcoes": {
+            "a": "The number of servers",
+            "b": "The number of APIs",
+            "c": "The number of users"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "The main functions of AWS Glues is to transform data, load data, extract data",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "If you want to develop an application in Java or C#, which of the following tools can you use?",
+        "opcoes": {
+            "a": "AWS CLI",
+            "b": "AWS Console",
+            "c": "AWS SDK"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "When implementing a backup strategy, what is the maximum number of manual RDS snapshots allowed per region?",
+        "opcoes": {
+            "a": "30",
+            "b": "100",
+            "c": "256"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "The CUSTOMER's role in the shared responsibility model is to protect the data center and maintain the hardware",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Your company was recently audited and fined, as it kept files with sensitive customer data exposed on its internal network, putting the image of the customer and the company at risk. Which AWS service can be used to monitor the data and prevent this kind of occurrence?",
+        "opcoes": {
+            "a": "AWS Macie",
+            "b": "AWS KMS",
+            "c": "AWS GuardDuty"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Your company started using ECS and containerized 2 microservices of an application that have different workloads throughout the day. The first has more accesses during the morning and the second has more accesses in the afternoon, inverting the scenario in resource consumption. What solution should you adopt to have these services automatically scale to optimize the use of your infrastructure resources?",
+        "opcoes": {
+            "a": "EC2",
+            "b": "ECS",
+            "c": "EKS"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the serverless database offered by AWS?",
+        "opcoes": {
+            "a": "MySQL",
+            "b": "DynamoDB",
+            "c": "Aurora"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "You have built an application on EC2 that connects to data on RDS. What service should you use so that the proper access settings between the application and the database are performed?",
+        "opcoes": {
+            "a": "IAM Roles",
+            "b": "IAM Users",
+            "c": "IAM Groups"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the file format used in most AWS service configurations?",
+        "opcoes": {
+            "a": "XML",
+            "b": "TXT",
+            "c": "JSON"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Your company is designing a new platform for distributing videos globally. What is the service that can reduce the latency between requesting and delivering the service?",
+        "opcoes": {
+            "a": "Amazon S3",
+            "b": "Amazon CloudFront",
+            "c": "Amazon Redis"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which service is used to log your users' actions within AWS?",
+        "opcoes": {
+            "a": "CloudTrail",
+            "b": "CloudFront",
+            "c": "CloudSearch"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the service, which through the global infrastructure of AWS, can be used when your applications have traffic problems due to Internet congestion?",
+        "opcoes": {
+            "a": "AWS Snowball",
+            "b": "AWS DataSync",
+            "c": "AWS Global Accelerator"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Which service is fully managed by AWS and is part of the continuous integration treadmill architecture that builds, tests, and packages for deployment?",
+        "opcoes": {
+            "a": "AWS CodeBuild",
+            "b": "AWS Pipeline",
+            "c": "AWS CodeCommit"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "How can you protect your AWS account from unauthorized access?",
+        "opcoes": {
+            "a": "Enable MFA",
+            "b": "Setting a second password",
+            "c": "Disabling AWS console access"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "You are a developer and would like to access AWS services directly from your IDE (IntelliJ, Visual Code, Eclipse, etc...). Which service offers a toolkit to be downloaded and installed on the your workstation and that allows such integration?",
+        "opcoes": {
+            "a": "AWS Workspaces",
+            "b": "AWS CLI",
+            "c": "AWS SDKs"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Which service offers a group of tools that can be used together or individually to enable web and mobile front-end developers to build secure and scalable full-stack applications, with technology powered by AWS? ",
+        "opcoes": {
+            "a": "AWS Fargate",
+            "b": "AWS Amplify",
+            "c": "AWS BeansTalk"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which item below is the responsibility of customers when it comes to ensuring that data on EBS volumes is safe and backed up?",
+        "opcoes": {
+            "a": "Create EBS Snapshot",
+            "b": "Create copies of EBS Volumes",
+            "c": "Attach volumes to EC2 instances"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What is the option below that makes use of the infrastructure of the Edge Networks (EdgeLocations) and Points of Presence to transfer files at high speed between S3 Buckets?",
+        "opcoes": {
+            "a": "CloudFront",
+            "b": "AWS VPN",
+            "c": "S3 Transfer Accelerations"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Which AWS feature enables the user to manage services through the web interface?",
+        "opcoes": {
+            "a": "AWS Software Development Kit (SDK)",
+            "b": "AWS Management Console",
+            "c": "AWS CloudWatch"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which of the following services allow scripting and automation from the command line?",
+        "opcoes": {
+            "a": "AWS Run",
+            "b": "AWS Console",
+            "c": "AWS CLI"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Which service uses Artificial Intelligence and analyzes data generated by events from different services and stored in S3, preventing malicious activities from being carried out",
+        "opcoes": {
+            "a": "AWS Macie",
+            "b": "AWS GuardDuty",
+            "c": "AWS Shield"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "What is the service that allows you to collect and store logs of resources, applications and services, practically in real time, for different purposes of processes and business",
+        "opcoes": {
+            "a": "Logs",
+            "b": "CloudLogs",
+            "c": "CloudWatch Logs"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is NOT a feature of Amazon Cognito",
+        "opcoes": {
+            "a": "add authentication in web and mobile app",
+            "b": "allow APls authentication via command line",
+            "c": "integrates with social media authentication like Apple, Facebook, Google and Amazon"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which AWS service below should be used to grant access to the account for 3 new developers who joined your team",
+        "opcoes": {
+            "a": "CloudFront",
+            "b": "S3",
+            "c": "IAM"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Your company needs to implement more security for its resources on AWS. What service allows you to easily provision, manage, and deploy Secure Sockets Layer (SSL)/Transport Layer Security (TLS) certificates for use with services from AWS and the built-in connected resources",
+        "opcoes": {
+            "a": "AWS Certificate Manager",
+            "b": "AWS Protocols",
+            "c": "AWS KMS"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "You are going to launch an application that needs 5 to 10 active EC2 instances according to the number of users logged in. What is the AWS service that has a mechanism to direct requests in a distributed way between these servers",
+        "opcoes": {
+            "a": "Securit Group",
+            "b": "Route53",
+            "c": "ELB"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the Amazon data warehouse service used by the BI areas, which allows the crossing of various structured and semi-structured data to generate knowledge for the business",
+        "opcoes": {
+            "a": "PowerBI",
+            "b": "Amazon RedShift",
+            "c": "Kinesis"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Which is the service that, through best practices, can be used to help you identify vulnerabilities and security deviations in applications, before they are deployed or while they are running in a production environment",
+        "opcoes": {
+            "a": "AWS Inspector",
+            "b": "AWS GuarDuty",
+            "c": "AWS Trusted Advisor"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "What knowledge does your team need to create applications that make use of the DynamoDB database",
+        "opcoes": {
+            "a": "SQL commands",
+            "b": "GraphQI",
+            "c": "Service API and json with attributes and commands"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "What is the integration service, fully managed by AWS, that allows you to securely transfer data between Software as a Service (SaaS) applications such as: Salesforce, Zendesk, Slack and ServiceNow, Amazon S3 and Amazon Redshift",
+        "opcoes": {
+            "a": "Amazon AppFlow",
+            "b": "Amazon EventBridge",
+            "c": "Amazon DMS"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "A critical application uses 5 to 10 EC2 instances to support the large volume of requests and processing. According to your studies, this infrastructure will meet the need for the next 3 years without major changes. What would be the best strategy to guarantee the scalability and optimize costs",
+        "opcoes": {
+            "a": "10 Reserved instances",
+            "b": "10 OnDemand instances",
+            "c": "5 Reserved instances and 5 OnDemand instances"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Your company's marketing area is planning to run a campaign that will last 12 months, in view of this, you were advised that there will be an increase in the number of customers on the site and saw that it will be necessary to upload 3 more EC2 instances to meet the demand during this period. Which instance type will have a better cost in this scenario",
+        "opcoes": {
+            "a": "Reserved",
+            "b": "Spot",
+            "c": "On Demand"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "The S3 Intelligent-Tiering storage class can lower costs as it automatically moves objects between tiers",
+        "opcoes": {
+            "a": "true",
+            "b": "false",
+            "c": "N/A"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Which one is NOT part of Amazon SageMaker's core functionality",
+        "opcoes": {
+            "a": "Prepare, Build and Deploy Database Models on AWS",
+            "b": "Provide an IDE for Machine Learning",
+            "c": "Prepare, document and publish APIs with aml sawgger"
+        },
+        "resposta": "c"
+    }
+]
