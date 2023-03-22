@@ -282,7 +282,7 @@
         "pergunta": "Qual é o serviço da AWS que permite a criação de bancos de dados em memória?",
         "opcoes": {
             "a": "Amazon RDS",
-            "b": "Amazon ElastivCache",
+            "b": "Amazon ElastiCache",
             "c": "Amazon DynamoDB"
         },
         "resposta": "b"
@@ -328,7 +328,7 @@
         "opcoes": {
             "a": "Amazon Comprehend",
             "b": "Amazon Translate",
-            "c": "Amazon"
+            "c": "Amazon EBS"
         },
         "resposta": "a"
     },
@@ -576,7 +576,7 @@
         "resposta": "b"
     },
     {
-        "pergunta": "Qual o modelo de instância sob demanda é o mais barato",
+        "pergunta": "O modelo de instância sob demanda é o mais barato",
         "opcoes": {
             "a": "Verdadeiro",
             "b": "Falso",
@@ -987,7 +987,7 @@
             "b": "RDS",
             "c": "DynamoDB"
         },
-        "resposta": "a"
+        "resposta": "b"
     },
     {
         "pergunta": "Qual serviço da AWS que, além de ajudar na visualização dos cinco serviços que mais aumentam os custos de uma conta, disponibiliza um detalhamento minucioso sobre todos os recursos utilizados?",
