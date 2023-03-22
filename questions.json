@@ -51,7 +51,7 @@
             "b": "Amazon CloudFront",
             "c": "Amazon Kinesis"
         },
-        "resposta": "a"
+        "resposta": "c"
     },
     {
         "pergunta": "Qual é o serviço da AWS que permite o envio de e-mails em massa?",
