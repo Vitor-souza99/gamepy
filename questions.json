@@ -1915,5 +1915,113 @@
             "c": "ASG"
         },
         "resposta": "a"
-    }
+    },
+    {
+        "pergunta": " Numa migração de banco de dados para AWS, seu time precisa transferir os dados de uma base Oracle on premises para uma base Oracle no RDS. Como esse processo pode ser realizado?",
+        "opcoes": {
+            "a": "Implementando o AWS DMS",
+            "b": "Implementando o AWS Connect",
+            "c": "Implementando o AWS Glue"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": " Muitos serviços da AWS são gerenciados permitindo que os clientes se preocupem apenas com o seu uso implementação, enquanto a AWS cuida da infraestrutura que os suportam. Nas opções abaixo todos os serviços são gerenciados, exceto:",
+        "opcoes": {
+            "a": "Lambda",
+            "b": "RDS",
+            "c": "EC2"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Uma repartição pública estabeleceu uma parceria com a Microsoft para a utilização de vários softwares licenciados. Qual serviço da AWS pode auxiliá-la no controle do uso destas e de outras licenças?",
+        "opcoes": {
+            "a": "Certificate Manager",
+            "b": "License Manager",
+            "c": "Certificate Control"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "De que maneira é possível melhorar a performance de uploads de arquivos em uma aplicação que está apresentando problemas de perfomance devido a congestionamentos de tráfego da internet?",
+        "opcoes": {
+            "a": "Habilitando o AWS Global Accelerator",
+            "b": "Habilitando o AWS CloudFront",
+            "c": "Habilitando o AWS Snowball"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "Você precisa integrar sua rede on premises com uma rede virtual na AWS com a menor latência possível. Qual serviço você deve utilizar?",
+        "opcoes": {
+            "a": "AWS DataSync",
+            "b": "AWS API Gateway",
+            "c": "AWS Direct Connect"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Sua empresa deseja manter todas as suas aplicações em plataformas sem servidor. Considerando o requisito de persistência de dados, qual é o serviço viável?",
+        "opcoes": {
+            "a": "Aurora",
+            "b": "DynamoDB",
+            "c": "DMS"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Sua aplicação faz uso do ASG para incluir novas instâncias EC2 na medida que o número de usuários aumente. Junto desta arquitetura qual é a finalidade do ELB?",
+        "opcoes": {
+            "a": "Ditribuir o tráfego de dados para as novas instâncias adicionadas",
+            "b": "Instanciar uma nova máquina quando uma das máquinas apresenta falha",
+            "c": "Distribuir o tráfego de dados entre todas as instâncias"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Para evitar ameaças na sua infraestrutura, você deseja verificar continuamente arquivos que possam ter algum malware criando comportamento suspeito em cargas de trabalho em instâncias ou contêineres. Qual é o serviço que utiliza inteligência artificial para realizar esse tipo de verificação em dados no EBS e em outros serviços da sua plataforma?",
+        "opcoes": {
+            "a": "AWS Shield",
+            "b": "GuardDuty",
+            "c": "AWS Macie"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Sua empresa precisa criar um chat interativo de alta qualidade com uma central de atendimento omnichanel para oferecer suporte aos seus clientes de qualquer lugar do mundo. Com qual serviço isso é possível?",
+        "opcoes": {
+            "a": "Amazon Connect",
+            "b": "CloudFront",
+            "c": "Cognito"
+        },
+        "resposta": "a"
+    },
+    {
+         "pergunta": "Sua empresa quer otimizar o custo de uso do S3 e você percebeu que existem muitos logs armazenados que podem ser excluídos após 30 dias de criação. O que pode ser feito para essa otimização?",
+         "opções": {
+             "a": "Configurar CloudWatch para monitorar S3 e enviar um e-mail solicitando a exclusão de arquivos",
+             "b": "Configurar no lifecycle do S3 para que os objetos expirem em 30 dias para serem excluídos automaticamente.",
+             "c": "Crie uma cópia desses objetos em outra região"
+         },
+         "resposta": "b"
+     },
+     {
+         "pergunta": "Sua empresa deseja padronizar e versionar as configurações para criação de todos os bancos de dados, e você deseja que esses serviços sejam implementados e atualizados em todos os servidores de forma automatizada, utilizando pipelines de CI/CD. Qual o serviço recomendado para este requisito?",
+         "opções": {
+             "a": "AWS RDS",
+             "b": "AWS CodePipeline",
+             "c": "AWS CloudFormation"
+         },
+         "resposta": "c"
+     },
+     {
+         "pergunta": "Qual pilar do AWS Architectural Best Practices Framework se concentra em garantir que uma carga de trabalho execute sua função pretendida de forma correta e consistente, e que uma carga de trabalho seja resiliente e se recupere rapidamente de falhas para atender à demanda de negócios e ao cliente?",
+         "opções": {
+             "a": "Desempenho Eficiente",
+             "b": "Confiabilidade",
+             "c": "Segurança"
+         },
+         "resposta": "b"
+     }
 ]
