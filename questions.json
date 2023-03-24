@@ -1998,30 +1998,57 @@
         "resposta": "a"
     },
     {
-         "pergunta": "Sua empresa quer otimizar o custo de uso do S3 e você percebeu que existem muitos logs armazenados que podem ser excluídos após 30 dias de criação. O que pode ser feito para essa otimização?",
-         "opções": {
-             "a": "Configurar CloudWatch para monitorar S3 e enviar um e-mail solicitando a exclusão de arquivos",
-             "b": "Configurar no lifecycle do S3 para que os objetos expirem em 30 dias para serem excluídos automaticamente.",
-             "c": "Crie uma cópia desses objetos em outra região"
-         },
-         "resposta": "b"
-     },
-     {
-         "pergunta": "Sua empresa deseja padronizar e versionar as configurações para criação de todos os bancos de dados, e você deseja que esses serviços sejam implementados e atualizados em todos os servidores de forma automatizada, utilizando pipelines de CI/CD. Qual o serviço recomendado para este requisito?",
-         "opções": {
-             "a": "AWS RDS",
-             "b": "AWS CodePipeline",
-             "c": "AWS CloudFormation"
-         },
-         "resposta": "c"
-     },
-     {
-         "pergunta": "Qual pilar do AWS Architectural Best Practices Framework se concentra em garantir que uma carga de trabalho execute sua função pretendida de forma correta e consistente, e que uma carga de trabalho seja resiliente e se recupere rapidamente de falhas para atender à demanda de negócios e ao cliente?",
-         "opções": {
-             "a": "Desempenho Eficiente",
-             "b": "Confiabilidade",
-             "c": "Segurança"
-         },
-         "resposta": "b"
-     }
+        "pergunta": "Sua empresa quer otimizar o custo de uso do S3 e você percebeu que existem muitos logs armazenados que podem ser excluídos após 30 dias de criação. O que pode ser feito para essa otimização?",
+        "opções": {
+            "a": "Configurar CloudWatch para monitorar S3 e enviar um e-mail solicitando a exclusão de arquivos",
+            "b": "Configurar no lifecycle do S3 para que os objetos expirem em 30 dias para serem excluídos automaticamente.",
+            "c": "Crie uma cópia desses objetos em outra região"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "Sua empresa deseja padronizar e versionar as configurações para criação de todos os bancos de dados, e você deseja que esses serviços sejam implementados e atualizados em todos os servidores de forma automatizada, utilizando pipelines de CI/CD. Qual o serviço recomendado para este requisito?",
+        "opções": {
+            "a": "AWS RDS",
+            "b": "AWS CodePipeline",
+            "c": "AWS CloudFormation"
+        },
+        "resposta": "c"
+    },
+    {
+        "pergunta": "Qual pilar do AWS Architectural Best Practices Framework se concentra em garantir que uma carga de trabalho execute sua função pretendida de forma correta e consistente, e que uma carga de trabalho seja resiliente e se recupere rapidamente de falhas para atender à demanda de negócios e ao cliente?",
+        "opções": {
+            "a": "Desempenho Eficiente",
+            "b": "Confiabilidade",
+            "c": "Segurança"
+        },
+        "resposta": "b"
+    },
+    {
+        "pergunta": "AWS Inspector é um serviço automatizado de gerenciamento de vulnerabilidade",
+        "opções": {
+            "a": "Verdadeiro",
+            "b": "Falso",
+            "c": "N/D"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "AWS GuardDuty é um serviço ML para detecção de ameaças",
+        "opções": {
+            "a": "Verdadeiro",
+            "b": "Falso",
+            "c": "N/D"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "sobre os seguintes serviços de dados: RedShift é um Warehouse, EMR é um Big Data",
+        "opções": {
+            "a": "Verdadeiro",
+            "b": "Falso",
+            "c": "N/D"
+        },
+        "resposta": "a"
+    }
 ]

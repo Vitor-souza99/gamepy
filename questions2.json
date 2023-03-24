@@ -2023,5 +2023,32 @@
             "c": "Security"
         },
         "resposta": "b"
+    },
+    {
+        "pergunta": "AWS Inspector is an automated vulnerability management service",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "AWS GuardDuty is an ML service for threat detection",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "a"
+    },
+    {
+        "pergunta": "about the following data services: RedShift is a Warehouse, EMR is a Big Data",
+        "opcoes": {
+            "a": "True",
+            "b": "False",
+            "c": "N/A"
+        },
+        "resposta": "a"
     }
 ]
