@@ -1,0 +1,8 @@
+Olá, bem vindo ao quiz de perguntas AWS Gamepy!
+Um jogo feito como um executável, para que seja leve, simples e bem útil, te auxiliando nos estudos para prova da AWS Cloud Practitioner.
+
+- Contém mais de 200 perguntas.
+- Perguntas disponíveis nos idiomas inglês e português.
+- Perguntas de múltipla escolha contendo 3 alternativas (a, b, c).
+- Sempre que executar, roda as perguntas de forma aleatória.
+- ao sair, saiba o resultado do total de acertos. 

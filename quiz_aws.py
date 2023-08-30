@@ -21,7 +21,7 @@ questions_schema = {
 # Pede ao usuário para escolher o idioma
 opcao_invalida = True
 
-input("Bem vindo(a) ao Quiz AWS, bons estudos!")
+input("Bem vindo(a) ao AWS Gamepy, bons estudos!")
 while opcao_invalida:
     # Pede ao usuário para escolher o idioma
     idioma = input(
